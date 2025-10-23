@@ -1,0 +1,15 @@
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\bin\Debug\net8.0\ECommerceMVP.Infrastructure.deps.json
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\bin\Debug\net8.0\ECommerceMVP.Infrastructure.dll
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\bin\Debug\net8.0\ECommerceMVP.Infrastructure.pdb
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\bin\Debug\net8.0\ECommerceMVP.Domain.dll
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\bin\Debug\net8.0\ECommerceMVP.Domain.pdb
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerceMVP.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerceMVP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerceMVP.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerceMVP.Infrastructure.AssemblyInfo.cs
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerceMVP.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerc.1A3D585E.Up2Date
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerceMVP.Infrastructure.dll
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\refint\ECommerceMVP.Infrastructure.dll
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerceMVP.Infrastructure.pdb
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ref\ECommerceMVP.Infrastructure.dll
