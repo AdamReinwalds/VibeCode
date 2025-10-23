@@ -469,3 +469,4 @@ c:\Users\adamr\code\VibeCode\ECommerceMVP.IntegrationTests\obj\Debug\net8.0\ECom
 c:\Users\adamr\code\VibeCode\ECommerceMVP.IntegrationTests\obj\Debug\net8.0\ECommerceMVP.IntegrationTests.genruntimeconfig.cache
 c:\Users\adamr\code\VibeCode\ECommerceMVP.IntegrationTests\obj\Debug\net8.0\ref\ECommerceMVP.IntegrationTests.dll
 c:\Users\adamr\code\VibeCode\ECommerceMVP.IntegrationTests\obj\Debug\net8.0\ECommerceMVP.IntegrationTests.sourcelink.json
+C:\Users\adamr\code\VibeCode\ECommerceMVP.IntegrationTests\bin\Debug\net8.0\ECommerceMVP.Api.staticwebassets.endpoints.json

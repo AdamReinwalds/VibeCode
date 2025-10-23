@@ -1,11 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "Q9mHUHqn1bhqhKqJGB71wiUzQTmLqhLJfxVjQBvQ2rs=",
-  "Source": "ECommerceMVP.Api",
-  "BasePath": "_content/ECommerceMVP.Api",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
-}
+{"Version":1,"Hash":"3wC5quPegO7FjZAHgUJGqsena5a71UvPcuzir5urcgQ=","Source":"ECommerceMVP.Api","BasePath":"_content/ECommerceMVP.Api","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

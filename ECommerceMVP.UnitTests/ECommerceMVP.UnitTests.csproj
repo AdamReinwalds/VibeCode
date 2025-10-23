@@ -16,11 +16,14 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.5.3" />
     <PackageReference Include="Moq" Version="4.20.70" />
     <PackageReference Include="FluentAssertions" Version="6.12.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="8.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ECommerceMVP.Domain\ECommerceMVP.Domain.csproj" />
     <ProjectReference Include="..\ECommerceMVP.Application\ECommerceMVP.Application.csproj" />
+    <ProjectReference Include="..\ECommerceMVP.Api\ECommerceMVP.Api.csproj" />
   </ItemGroup>
 
   <ItemGroup>

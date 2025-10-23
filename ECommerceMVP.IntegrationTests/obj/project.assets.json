@@ -9058,19 +9058,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adamr\\.nuget\\packages\\": {}
+    "C:\\Users\\adamr\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
       "projectName": "ECommerceMVP.IntegrationTests",
-      "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
+      "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\adamr\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\obj\\",
+      "outputPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\adamr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9078,24 +9083,23 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Api\\ECommerceMVP.Api.csproj": {
-              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Api\\ECommerceMVP.Api.csproj"
+            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Api\\ECommerceMVP.Api.csproj": {
+              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Api\\ECommerceMVP.Api.csproj"
             },
-            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj": {
-              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj"
+            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj": {
+              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj"
             },
-            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj": {
-              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj"
+            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj": {
+              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj"
             },
-            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Infrastructure\\ECommerceMVP.Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Infrastructure\\ECommerceMVP.Infrastructure.csproj"
+            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Infrastructure\\ECommerceMVP.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Infrastructure\\ECommerceMVP.Infrastructure.csproj"
             }
           }
         }
@@ -9109,7 +9113,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -9160,7 +9165,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

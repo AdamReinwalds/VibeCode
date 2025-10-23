@@ -217,39 +217,46 @@ var assemblies = [
       { "name": "ECommerceMVP.Api.Controllers.BasketController", "rp": "ECommerceMVP.Api_BasketController.html", "cl": 0, "ucl": 54, "cal": 54, "tl": 99, "cb": 0, "tb": 4, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "ECommerceMVP.Api.Controllers.CheckoutController", "rp": "ECommerceMVP.Api_CheckoutController.html", "cl": 0, "ucl": 24, "cal": 24, "tl": 51, "cb": 0, "tb": 4, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "ECommerceMVP.Api.Controllers.OrdersController", "rp": "ECommerceMVP.Api_OrdersController.html", "cl": 0, "ucl": 21, "cal": 21, "tl": 47, "cb": 0, "tb": 8, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "Program", "rp": "ECommerceMVP.Api_Program.html", "cl": 0, "ucl": 82, "cal": 82, "tl": 113, "cb": 0, "tb": 8, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Api.Controllers.ProductsController", "rp": "ECommerceMVP.Api_ProductsController.html", "cl": 0, "ucl": 34, "cal": 34, "tl": 69, "cb": 0, "tb": 6, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Api.ProductSeeder", "rp": "ECommerceMVP.Api_ProductSeeder.html", "cl": 0, "ucl": 195, "cal": 195, "tl": 219, "cb": 0, "tb": 4, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "Program", "rp": "ECommerceMVP.Api_Program.html", "cl": 0, "ucl": 82, "cal": 82, "tl": 135, "cb": 0, "tb": 8, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "Program", "rp": "ECommerceMVP.Api_Program.html", "cl": 0, "ucl": 100, "cal": 100, "tl": 135, "cb": 0, "tb": 8, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
   {
     "name": "ECommerceMVP.Application",
     "classes": [
-      { "name": "ECommerceMVP.Application.DTOs.AddToBasketRequest", "rp": "ECommerceMVP.Application_AddToBasketRequest.html", "cl": 2, "ucl": 0, "cal": 2, "tl": 13, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.AuthResponse", "rp": "ECommerceMVP.Application_AuthResponse.html", "cl": 2, "ucl": 0, "cal": 2, "tl": 16, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.BasketDto", "rp": "ECommerceMVP.Application_BasketDto.html", "cl": 3, "ucl": 0, "cal": 3, "tl": 17, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.BasketItemDto", "rp": "ECommerceMVP.Application_BasketItemDto.html", "cl": 5, "ucl": 0, "cal": 5, "tl": 17, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.CheckoutRequest", "rp": "ECommerceMVP.Application_CheckoutRequest.html", "cl": 2, "ucl": 0, "cal": 2, "tl": 32, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.LoginRequest", "rp": "ECommerceMVP.Application_LoginRequest.html", "cl": 2, "ucl": 0, "cal": 2, "tl": 12, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.OrderDto", "rp": "ECommerceMVP.Application_OrderDto.html", "cl": 5, "ucl": 0, "cal": 5, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.OrderItemDto", "rp": "ECommerceMVP.Application_OrderItemDto.html", "cl": 4, "ucl": 0, "cal": 4, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.OrdersResponse", "rp": "ECommerceMVP.Application_OrdersResponse.html", "cl": 2, "ucl": 0, "cal": 2, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.OrderSummaryDto", "rp": "ECommerceMVP.Application_OrderSummaryDto.html", "cl": 4, "ucl": 0, "cal": 4, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.PaginationDto", "rp": "ECommerceMVP.Application_PaginationDto.html", "cl": 3, "ucl": 0, "cal": 3, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.RegisterRequest", "rp": "ECommerceMVP.Application_RegisterRequest.html", "cl": 5, "ucl": 0, "cal": 5, "tl": 26, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.ShippingAddressDto", "rp": "ECommerceMVP.Application_ShippingAddressDto.html", "cl": 4, "ucl": 0, "cal": 4, "tl": 32, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.DTOs.UserResponse", "rp": "ECommerceMVP.Application_UserResponse.html", "cl": 5, "ucl": 0, "cal": 5, "tl": 16, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.Services.AuthService", "rp": "ECommerceMVP.Application_AuthService.html", "cl": 63, "ucl": 16, "cal": 79, "tl": 119, "cb": 8, "tb": 12, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.Services.BasketService", "rp": "ECommerceMVP.Application_BasketService.html", "cl": 101, "ucl": 1, "cal": 102, "tl": 135, "cb": 23, "tb": 24, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Application.Services.CheckoutService", "rp": "ECommerceMVP.Application_CheckoutService.html", "cl": 101, "ucl": 2, "cal": 103, "tl": 147, "cb": 16, "tb": 20, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.AddToBasketRequest", "rp": "ECommerceMVP.Application_AddToBasketRequest.html", "cl": 0, "ucl": 2, "cal": 2, "tl": 13, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.AuthResponse", "rp": "ECommerceMVP.Application_AuthResponse.html", "cl": 0, "ucl": 2, "cal": 2, "tl": 16, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.BasketDto", "rp": "ECommerceMVP.Application_BasketDto.html", "cl": 0, "ucl": 3, "cal": 3, "tl": 17, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.BasketItemDto", "rp": "ECommerceMVP.Application_BasketItemDto.html", "cl": 0, "ucl": 5, "cal": 5, "tl": 17, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.CheckoutRequest", "rp": "ECommerceMVP.Application_CheckoutRequest.html", "cl": 0, "ucl": 2, "cal": 2, "tl": 32, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.CreateProductDto", "rp": "ECommerceMVP.Application_CreateProductDto.html", "cl": 0, "ucl": 11, "cal": 11, "tl": 16, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.LoginRequest", "rp": "ECommerceMVP.Application_LoginRequest.html", "cl": 0, "ucl": 2, "cal": 2, "tl": 12, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.OrderDto", "rp": "ECommerceMVP.Application_OrderDto.html", "cl": 0, "ucl": 5, "cal": 5, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.OrderItemDto", "rp": "ECommerceMVP.Application_OrderItemDto.html", "cl": 0, "ucl": 4, "cal": 4, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.OrdersResponse", "rp": "ECommerceMVP.Application_OrdersResponse.html", "cl": 0, "ucl": 2, "cal": 2, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.OrderSummaryDto", "rp": "ECommerceMVP.Application_OrderSummaryDto.html", "cl": 0, "ucl": 4, "cal": 4, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.PaginationDto", "rp": "ECommerceMVP.Application_PaginationDto.html", "cl": 0, "ucl": 3, "cal": 3, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.ProductDto", "rp": "ECommerceMVP.Application_ProductDto.html", "cl": 0, "ucl": 14, "cal": 14, "tl": 19, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.RegisterRequest", "rp": "ECommerceMVP.Application_RegisterRequest.html", "cl": 0, "ucl": 5, "cal": 5, "tl": 26, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.ShippingAddressDto", "rp": "ECommerceMVP.Application_ShippingAddressDto.html", "cl": 0, "ucl": 4, "cal": 4, "tl": 32, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.UpdateProductDto", "rp": "ECommerceMVP.Application_UpdateProductDto.html", "cl": 0, "ucl": 11, "cal": 11, "tl": 16, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.DTOs.UserResponse", "rp": "ECommerceMVP.Application_UserResponse.html", "cl": 0, "ucl": 5, "cal": 5, "tl": 16, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.Services.AuthService", "rp": "ECommerceMVP.Application_AuthService.html", "cl": 0, "ucl": 79, "cal": 79, "tl": 119, "cb": 0, "tb": 12, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.Services.BasketService", "rp": "ECommerceMVP.Application_BasketService.html", "cl": 0, "ucl": 102, "cal": 102, "tl": 135, "cb": 0, "tb": 24, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.Services.CheckoutService", "rp": "ECommerceMVP.Application_CheckoutService.html", "cl": 0, "ucl": 103, "cal": 103, "tl": 147, "cb": 0, "tb": 20, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Application.Services.ProductService", "rp": "ECommerceMVP.Application_ProductService.html", "cl": 0, "ucl": 79, "cal": 79, "tl": 110, "cb": 0, "tb": 30, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
   {
     "name": "ECommerceMVP.Domain",
     "classes": [
-      { "name": "ECommerceMVP.Domain.Entities.Basket", "rp": "ECommerceMVP.Domain_Basket.html", "cl": 5, "ucl": 0, "cal": 5, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Domain.Entities.BasketItem", "rp": "ECommerceMVP.Domain_BasketItem.html", "cl": 3, "ucl": 0, "cal": 3, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Domain.Entities.Order", "rp": "ECommerceMVP.Domain_Order.html", "cl": 9, "ucl": 0, "cal": 9, "tl": 76, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Domain.Entities.OrderItem", "rp": "ECommerceMVP.Domain_OrderItem.html", "cl": 3, "ucl": 0, "cal": 3, "tl": 76, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Domain.Entities.Product", "rp": "ECommerceMVP.Domain_Product.html", "cl": 6, "ucl": 3, "cal": 9, "tl": 36, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Domain.Entities.ShippingAddress", "rp": "ECommerceMVP.Domain_ShippingAddress.html", "cl": 4, "ucl": 0, "cal": 4, "tl": 76, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "ECommerceMVP.Domain.Entities.User", "rp": "ECommerceMVP.Domain_User.html", "cl": 8, "ucl": 0, "cal": 8, "tl": 33, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Domain.Entities.Basket", "rp": "ECommerceMVP.Domain_Basket.html", "cl": 0, "ucl": 5, "cal": 5, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Domain.Entities.BasketItem", "rp": "ECommerceMVP.Domain_BasketItem.html", "cl": 0, "ucl": 3, "cal": 3, "tl": 39, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Domain.Entities.Order", "rp": "ECommerceMVP.Domain_Order.html", "cl": 0, "ucl": 9, "cal": 9, "tl": 76, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Domain.Entities.OrderItem", "rp": "ECommerceMVP.Domain_OrderItem.html", "cl": 0, "ucl": 3, "cal": 3, "tl": 76, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Domain.Entities.Product", "rp": "ECommerceMVP.Domain_Product.html", "cl": 0, "ucl": 14, "cal": 14, "tl": 51, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Domain.Entities.ShippingAddress", "rp": "ECommerceMVP.Domain_ShippingAddress.html", "cl": 0, "ucl": 4, "cal": 4, "tl": 76, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "ECommerceMVP.Domain.Entities.User", "rp": "ECommerceMVP.Domain_User.html", "cl": 0, "ucl": 8, "cal": 8, "tl": 33, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
     ]},
   {
     "name": "ECommerceMVP.Infrastructure",
@@ -272,13 +279,55 @@ var riskHotspotMetrics = [
 
 var riskHotspots = [
   {
+    "assembly": "ECommerceMVP.Application", "class": "ECommerceMVP.Application.Services.ProductService", "reportPath": "ECommerceMVP.Application_ProductService.html", "methodName": "UpdateAsync()", "methodShortName": "UpdateAsync()", "fileIndex": 0, "line": 55,
+    "metrics": [
+      { "value": 600, "exceeded": true },
+      { "value": 24, "exceeded": true },
+    ]},
+  {
+    "assembly": "ECommerceMVP.Application", "class": "ECommerceMVP.Application.Services.BasketService", "reportPath": "ECommerceMVP.Application_BasketService.html", "methodName": "AddToBasketAsync()", "methodShortName": "AddToBasketAsync()", "fileIndex": 0, "line": 61,
+    "metrics": [
+      { "value": 156, "exceeded": true },
+      { "value": 12, "exceeded": false },
+    ]},
+  {
+    "assembly": "ECommerceMVP.Application", "class": "ECommerceMVP.Application.Services.CheckoutService", "reportPath": "ECommerceMVP.Application_CheckoutService.html", "methodName": "CheckoutAsync()", "methodShortName": "CheckoutAsync()", "fileIndex": 0, "line": 25,
+    "metrics": [
+      { "value": 110, "exceeded": true },
+      { "value": 10, "exceeded": false },
+    ]},
+  {
     "assembly": "ECommerceMVP.Api", "class": "Program", "reportPath": "ECommerceMVP.Api_Program.html", "methodName": "<Main>$(System.String[])", "methodShortName": "<Main>$(...)", "fileIndex": 0, "line": 14,
     "metrics": [
       { "value": 72, "exceeded": true },
       { "value": 8, "exceeded": false },
     ]},
   {
+    "assembly": "ECommerceMVP.Api", "class": "Program", "reportPath": "ECommerceMVP.Api_Program.html", "methodName": "<Main>$()", "methodShortName": "<Main>$()", "fileIndex": 0, "line": 12,
+    "metrics": [
+      { "value": 72, "exceeded": true },
+      { "value": 8, "exceeded": false },
+    ]},
+  {
+    "assembly": "ECommerceMVP.Application", "class": "ECommerceMVP.Application.Services.CheckoutService", "reportPath": "ECommerceMVP.Application_CheckoutService.html", "methodName": "GetUserOrdersAsync()", "methodShortName": "GetUserOrdersAsync()", "fileIndex": 0, "line": 91,
+    "metrics": [
+      { "value": 72, "exceeded": true },
+      { "value": 8, "exceeded": false },
+    ]},
+  {
     "assembly": "ECommerceMVP.Api", "class": "ECommerceMVP.Api.Controllers.OrdersController", "reportPath": "ECommerceMVP.Api_OrdersController.html", "methodName": "GetOrders()", "methodShortName": "GetOrders()", "fileIndex": 0, "line": 23,
+    "metrics": [
+      { "value": 42, "exceeded": true },
+      { "value": 6, "exceeded": false },
+    ]},
+  {
+    "assembly": "ECommerceMVP.Application", "class": "ECommerceMVP.Application.Services.AuthService", "reportPath": "ECommerceMVP.Application_AuthService.html", "methodName": "RegisterAsync()", "methodShortName": "RegisterAsync()", "fileIndex": 0, "line": 26,
+    "metrics": [
+      { "value": 42, "exceeded": true },
+      { "value": 6, "exceeded": false },
+    ]},
+  {
+    "assembly": "ECommerceMVP.Application", "class": "ECommerceMVP.Application.Services.BasketService", "reportPath": "ECommerceMVP.Application_BasketService.html", "methodName": "GetBasketAsync()", "methodShortName": "GetBasketAsync()", "fileIndex": 0, "line": 20,
     "metrics": [
       { "value": 42, "exceeded": true },
       { "value": 6, "exceeded": false },
