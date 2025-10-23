@@ -6,4 +6,11 @@ export interface Product {
   imageUrl?: string;
   stock: number;
   category: string;
+  size: string;
+  color: string;
+  material: string;
+  gender: string;
+  brand: string;
+  createdAt: string;
+  updatedAt: string;
 }

@@ -10,3 +10,4 @@ c:\Users\adamr\code\VibeCode\ECommerceMVP.Domain\obj\Debug\net8.0\ECommerceMVP.D
 c:\Users\adamr\code\VibeCode\ECommerceMVP.Domain\obj\Debug\net8.0\refint\ECommerceMVP.Domain.dll
 c:\Users\adamr\code\VibeCode\ECommerceMVP.Domain\obj\Debug\net8.0\ECommerceMVP.Domain.pdb
 c:\Users\adamr\code\VibeCode\ECommerceMVP.Domain\obj\Debug\net8.0\ref\ECommerceMVP.Domain.dll
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Domain\obj\Debug\net8.0\ECommerceMVP.Domain.sourcelink.json

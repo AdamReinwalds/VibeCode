@@ -6854,11 +6854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.UnitTests\\ECommerceMVP.UnitTests.csproj",
+      "projectUniqueName": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.UnitTests\\ECommerceMVP.UnitTests.csproj",
       "projectName": "ECommerceMVP.UnitTests",
-      "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.UnitTests\\ECommerceMVP.UnitTests.csproj",
+      "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.UnitTests\\ECommerceMVP.UnitTests.csproj",
       "packagesPath": "C:\\Users\\adamr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.UnitTests\\obj\\",
+      "outputPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adamr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6876,11 +6876,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj": {
-              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj"
+            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj": {
+              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj"
             },
-            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj": {
-              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj"
+            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj": {
+              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj"
             }
           }
         }

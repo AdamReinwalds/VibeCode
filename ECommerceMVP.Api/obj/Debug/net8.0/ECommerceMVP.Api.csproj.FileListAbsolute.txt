@@ -52,3 +52,4 @@ c:\Users\adamr\code\VibeCode\ECommerceMVP.Api\obj\Debug\net8.0\refint\ECommerceM
 c:\Users\adamr\code\VibeCode\ECommerceMVP.Api\obj\Debug\net8.0\ECommerceMVP.Api.pdb
 c:\Users\adamr\code\VibeCode\ECommerceMVP.Api\obj\Debug\net8.0\ECommerceMVP.Api.genruntimeconfig.cache
 c:\Users\adamr\code\VibeCode\ECommerceMVP.Api\obj\Debug\net8.0\ref\ECommerceMVP.Api.dll
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Api\obj\Debug\net8.0\ECommerceMVP.Api.sourcelink.json

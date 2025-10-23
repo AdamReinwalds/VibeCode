@@ -9,7 +9,15 @@
       <h3>Available Features:</h3>
       <div class="feature-grid">
         <div class="feature-card">
-          <h4>🛒 Basket Management</h4>
+          <h4>👕 Browse Products</h4>
+          <p>Explore our collection of clothing and accessories.</p>
+          <router-link to="/products" class="feature-link"
+            >Browse Products</router-link
+          >
+        </div>
+
+        <div class="feature-card">
+          <h4>� Basket Management</h4>
           <p>Add products to your basket, view items, and manage quantities.</p>
           <router-link to="/basket" class="feature-link"
             >Go to Basket</router-link

@@ -129,3 +129,4 @@ c:\Users\adamr\code\VibeCode\ECommerceMVP.UnitTests\obj\Debug\net8.0\refint\ECom
 c:\Users\adamr\code\VibeCode\ECommerceMVP.UnitTests\obj\Debug\net8.0\ECommerceMVP.UnitTests.pdb
 c:\Users\adamr\code\VibeCode\ECommerceMVP.UnitTests\obj\Debug\net8.0\ECommerceMVP.UnitTests.genruntimeconfig.cache
 c:\Users\adamr\code\VibeCode\ECommerceMVP.UnitTests\obj\Debug\net8.0\ref\ECommerceMVP.UnitTests.dll
+c:\Users\adamr\code\VibeCode\ECommerceMVP.UnitTests\obj\Debug\net8.0\ECommerceMVP.UnitTests.sourcelink.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AOrVeAMkreA=",
+  "dgSpecHash": "oDLhPyDHN6I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
+  "projectFilePath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adamr\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\adamr\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

@@ -9063,11 +9063,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
+      "projectUniqueName": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
       "projectName": "ECommerceMVP.IntegrationTests",
-      "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
+      "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\ECommerceMVP.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\adamr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\obj\\",
+      "outputPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adamr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9085,17 +9085,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Api\\ECommerceMVP.Api.csproj": {
-              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Api\\ECommerceMVP.Api.csproj"
+            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Api\\ECommerceMVP.Api.csproj": {
+              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Api\\ECommerceMVP.Api.csproj"
             },
-            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj": {
-              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj"
+            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj": {
+              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Application\\ECommerceMVP.Application.csproj"
             },
-            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj": {
-              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj"
+            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj": {
+              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Domain\\ECommerceMVP.Domain.csproj"
             },
-            "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Infrastructure\\ECommerceMVP.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Infrastructure\\ECommerceMVP.Infrastructure.csproj"
+            "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Infrastructure\\ECommerceMVP.Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\adamr\\code\\VibeCode\\ECommerceMVP.Infrastructure\\ECommerceMVP.Infrastructure.csproj"
             }
           }
         }

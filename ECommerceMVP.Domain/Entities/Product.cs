@@ -28,6 +28,21 @@ public class Product
     [BsonElement("category")]
     public string Category { get; set; } = null!;
 
+    [BsonElement("size")]
+    public string Size { get; set; } = null!;
+
+    [BsonElement("color")]
+    public string Color { get; set; } = null!;
+
+    [BsonElement("material")]
+    public string Material { get; set; } = null!;
+
+    [BsonElement("gender")]
+    public string Gender { get; set; } = null!;
+
+    [BsonElement("brand")]
+    public string Brand { get; set; } = null!;
+
     [BsonElement("createdAt")]
     public DateTime CreatedAt { get; set; }
 

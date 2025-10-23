@@ -30,7 +30,7 @@ public class AuthController : ControllerBase
         {
             return Conflict(new { error = new { code = "CONFLICT", message = ex.Message } });
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return StatusCode(500, new { error = new { code = "INTERNAL_ERROR", message = "An error occurred during registration" } });
         }
@@ -51,7 +51,7 @@ public class AuthController : ControllerBase
         {
             return Unauthorized(new { error = new { code = "UNAUTHORIZED", message = ex.Message } });
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return StatusCode(500, new { error = new { code = "INTERNAL_ERROR", message = "An error occurred during login" } });
         }

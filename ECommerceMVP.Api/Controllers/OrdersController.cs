@@ -31,7 +31,7 @@ public class OrdersController : ControllerBase
 
             return Ok(orders);
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return StatusCode(500, new { error = new { code = "INTERNAL_ERROR", message = "Failed to retrieve orders" } });
         }

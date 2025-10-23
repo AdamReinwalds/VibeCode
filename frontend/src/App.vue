@@ -17,6 +17,7 @@ onMounted(() => {
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/products">Products</RouterLink>
         <RouterLink to="/basket">Basket</RouterLink>
         <RouterLink to="/checkout">Checkout</RouterLink>
         <button @click="authStore.logout()" class="logout-btn">Logout</button>

@@ -13,3 +13,4 @@ c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\EComme
 c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\refint\ECommerceMVP.Infrastructure.dll
 c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerceMVP.Infrastructure.pdb
 c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ref\ECommerceMVP.Infrastructure.dll
+c:\Users\adamr\code\VibeCode\ECommerceMVP.Infrastructure\obj\Debug\net8.0\ECommerceMVP.Infrastructure.sourcelink.json

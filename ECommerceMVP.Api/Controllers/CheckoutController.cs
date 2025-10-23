@@ -35,7 +35,7 @@ public class CheckoutController : ControllerBase
         {
             return BadRequest(new { error = new { code = "CHECKOUT_ERROR", message = ex.Message } });
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return StatusCode(500, new { error = new { code = "INTERNAL_ERROR", message = "Checkout failed" } });
         }

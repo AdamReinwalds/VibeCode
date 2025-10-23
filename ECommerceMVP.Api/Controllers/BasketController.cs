@@ -27,7 +27,7 @@ public class BasketController : ControllerBase
             var basket = await _basketService.GetBasketAsync(userId);
             return Ok(basket);
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return StatusCode(500, new { error = new { code = "INTERNAL_ERROR", message = "Failed to retrieve basket" } });
         }
@@ -49,7 +49,7 @@ public class BasketController : ControllerBase
         {
             return BadRequest(new { error = new { code = "VALIDATION_ERROR", message = ex.Message } });
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return StatusCode(500, new { error = new { code = "INTERNAL_ERROR", message = "Failed to add item to basket" } });
         }
@@ -68,7 +68,7 @@ public class BasketController : ControllerBase
         {
             return BadRequest(new { error = new { code = "VALIDATION_ERROR", message = ex.Message } });
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return StatusCode(500, new { error = new { code = "INTERNAL_ERROR", message = "Failed to remove item from basket" } });
         }
@@ -83,7 +83,7 @@ public class BasketController : ControllerBase
             await _basketService.ClearBasketAsync(userId);
             return NoContent();
         }
-        catch (Exception ex)
+        catch (Exception)
         {
             return StatusCode(500, new { error = new { code = "INTERNAL_ERROR", message = "Failed to clear basket" } });
         }
